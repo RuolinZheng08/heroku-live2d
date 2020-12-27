@@ -3,3 +3,16 @@
 Building on [Cubism's official GitHub repository](https://github.com/Live2D/CubismWebSamples), this repository walks you through deploying a Cubism Web App to Heroku.
 
 Follow along this tutorial using the `start` [branch](https://github.com/RuolinZheng08/heroku-live2d/tree/start). The finished project is available on the `develop` [branch](https://github.com/RuolinZheng08/heroku-live2d/tree/develop).
+
+## Directory Structure
+Translated from the Japanese README.
+
+```
+.
+├─ .vscode          # Visual Studio Code project setting
+├─ Core             # Live2D Cubism Core JavaScript and TypeScript source code
+├─ Framework        #  Source code for the rendering and animation features
+└─ Samples
+   ├─ Resources     # Live2D model files and web image assets
+   └─ TypeScript    # [IMPORTANT] TypeScript sample project
+```
