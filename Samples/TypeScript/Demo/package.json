@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "start": "webpack-dev-server --progress",
+    "start": "webpack-dev-server --progress --port $PORT",
     "build": "webpack -d --hide-modules",
     "build:prod": "webpack -p --hide-modules",
     "test": "tsc --noEmit",
