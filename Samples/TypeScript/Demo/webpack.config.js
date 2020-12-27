@@ -28,11 +28,14 @@ module.exports = {
     watchContentBase: true,
     inline: true,
     hot: true,
-    port: 5000,
     host: '0.0.0.0',
+    disableHostCheck: true,
     compress: true,
     useLocalIp: true,
     writeToDisk: true
   },
-  devtool: 'inline-source-map'
+  devtool: 'inline-source-map',
+  watchOptions: {
+    ignored: /node_modules/
+  }
 }
