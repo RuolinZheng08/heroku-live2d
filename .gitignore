@@ -1,6 +1,6 @@
 # Core directory files
-/Core/*
-!Please_copy_cubism_core_for_web
+# /Core/*
+# !Please_copy_cubism_core_for_web
 # Package files
 node_modules/
 # Build files
