@@ -6,6 +6,8 @@ Building on [Cubism's official GitHub repository](https://github.com/Live2D/Cubi
 
 Read [my tutorial on freeCodeCamp](https://www.freecodecamp.org/news/how-to-deploy-a-live2d-web-app-using-heroku/) or watch [my YouTube tutorial](https://www.youtube.com/watch?v=uH1IczzE_t4). Follow along using the `start` [branch](https://github.com/RuolinZheng08/heroku-live2d/tree/start). The finished project is available on the `develop` [branch](https://github.com/RuolinZheng08/heroku-live2d/tree/develop).
 
+I've also created [a cookbook](ruolinzheng.gitbook.io/live2d-cubism-cookbook/) to help you learn about the Live2D Cubism 4.0 Model Editor and SDK. Happy rigging!
+
 ## Directory Structure
 Translated from the Japanese README.
 
